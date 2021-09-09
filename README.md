@@ -1,5 +1,5 @@
 
-<h1>Total Countings</h1>
+<h1>Instagram Database Clone</h1>
 Total USERS=100<br>
 Total Photos=257<br>
 Total Comments=7623<br>
