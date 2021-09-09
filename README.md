@@ -1,9 +1,9 @@
 
-
-Total USERS=100
-Total Photos=257
-Total Comments=7623
-Total Likes=7488
-Total follows=8782
-Total tags=21
-Total photo_tags=501
+<h1>Total Countings</h1>
+Total USERS=100<br>
+Total Photos=257<br>
+Total Comments=7623<br>
+Total Likes=7488<br>
+Total follows=8782<br>
+Total tags=21<br>
+Total photo_tags=501<br>
